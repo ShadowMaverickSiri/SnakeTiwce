@@ -1,0 +1,9 @@
+﻿  Main.cpp
+D:\桌面\mycode\SnakeGameV1.0\SnakeGameV1.0\Main.cpp(112,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\mycode\SnakeGameV1.0\SnakeGameV1.0\Main.cpp(119,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\mycode\SnakeGameV1.0\SnakeGameV1.0\Main.cpp(126,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\mycode\SnakeGameV1.0\SnakeGameV1.0\Main.cpp(306,46): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\桌面\mycode\SnakeGameV1.0\SnakeGameV1.0\Main.cpp(307,46): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\桌面\mycode\SnakeGameV1.0\SnakeGameV1.0\Main.cpp(309,46): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\桌面\mycode\SnakeGameV1.0\SnakeGameV1.0\Main.cpp(310,46): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  SnakeGameV1.0.vcxproj -> D:\桌面\mycode\SnakeGameV1.0\Debug\SnakeGameV1.0.exe
